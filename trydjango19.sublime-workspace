@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/models/secuwear.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/server/mocks/secuwears.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/styles/app.scss",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/templates/components/secudatas-display.hbs",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/templates/secudatas.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/components/secuwears-display.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/secuwears.hbs",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/styles/app.scss",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/utils/google-maps.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/ember-cli-build.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/services/maps.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/components/location-map.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/components/location-map.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/controllers/rentals.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/components/list-filter.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/components/list-filter.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/server/mocks/rentals.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/helpers/rental-property-type.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/components/rental-listing.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/components/rental-listing.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/rentals.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/routes/rentals.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/models/rental.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/application.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/about.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/adapters/application.js",
+		"/home/isaac/Desktop/django/linuxproject/linuxproject/settings.py",
+		"/home/isaac/Desktop/django/firstproject/firstproject/settings.py",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/routes/index.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/templates/contact.hbs",
+		"/home/isaac/Desktop/ember-project/super-rentals/tests/acceptance/list-rentals-test.js",
+		"/home/isaac/Desktop/ember-project/super-rentals/app/router.js",
+		"/home/isaac/Desktop/ember-project/component/bower.json",
+		"/home/isaac/Desktop/ember-project/component/app/helpers/multiply.js",
+		"/home/isaac/Desktop/ember-project/component/app/helpers/sum.js",
+		"/home/isaac/Desktop/ember-project/component/app/controllers/application.js",
+		"/home/isaac/Desktop/ember-project/component/app/templates/application.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/bower.json",
+		"/home/isaac/Desktop/personal/macas/frontend/app/components/bookings-form.js",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/components/bookings-form.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/router.js",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/components/slider-file.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/index.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/application.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/components/footer-file.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/contacts.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/bookings.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/news.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/ammenities.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/styles/app.scss",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/components/nav-bar.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/about.hbs",
+		"/home/isaac/Desktop/personal/macas/frontend/app/components/bookings.js",
+		"/home/isaac/Desktop/personal/macas/frontend/package.json",
+		"/home/isaac/Desktop/personal/macas/frontend/app/templates/components/header-file.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/application.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/adapters/application.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/components/nav-bar.hbs",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/routes/secudatas.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/routes/secuwears.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/router.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/components/secuwear-display.hbs",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/models/secudata.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/models/secudata.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/routes/secudatas.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/components/secu-data.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/secudatas.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/app/templates/components/secudatas-display.hbs",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/server/mocks/secudata.js",
+		"/home/isaac/Desktop/ember-project/secuwear-graph/server/mocks/secudatas.js",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/templates/components/nav-bar.hbs",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/components/secudatas-display.js",
+		"/home/isaac/Desktop/ember-project/isaac-graph/server/mocks/secudatas.js",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/router.js",
+		"/home/isaac/Desktop/ember-project/isaac-graph/app/adapters/application.js",
+		"/home/isaac/Desktop/ember-project/isaac-graph/dist/assets/vendor.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
