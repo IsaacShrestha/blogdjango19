@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"F",
+				"FILES"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
 				"Post",
 				"PostModelAdmin"
 			],
@@ -16,18 +32,34 @@
 	"buffers":
 	[
 		{
-			"file": "src/trydjango19/urls.py",
+			"file": "src/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 876,
+				"buffer_size": 1119,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/posts/urls.py",
+			"file": "src/templates/post_detail.html",
 			"settings":
 			{
-				"buffer_size": 388,
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_list.html",
+			"settings":
+			{
+				"buffer_size": 1381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_form.html",
+			"settings":
+			{
+				"buffer_size": 325,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +67,15 @@
 			"file": "src/posts/views.py",
 			"settings":
 			{
-				"buffer_size": 439,
+				"buffer_size": 2313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 1683,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,15 +83,23 @@
 			"file": "src/trydjango19/settings.py",
 			"settings":
 			{
-				"buffer_size": 3227,
+				"buffer_size": 3471,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/index.html",
+			"file": "src/posts/forms.py",
 			"settings":
 			{
-				"buffer_size": 143,
+				"buffer_size": 165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/urls.py",
+			"settings":
+			{
+				"buffer_size": 472,
 				"line_ending": "Unix"
 			}
 		}
@@ -80,11 +128,19 @@
 	},
 	"file_history":
 	[
-		"/home/isaac/Desktop/django/trydjango19/src/trydjango19/settings.py",
-		"/home/isaac/Desktop/django/trydjango19/src/posts/views.py",
-		"/home/isaac/Desktop/django/trydjango19/src/posts/admin.py",
-		"/home/isaac/Desktop/django/trydjango19/src/posts/models.py",
 		"/home/isaac/Desktop/django/trydjango19/src/trydjango19/urls.py",
+		"/home/isaac/Desktop/django/trydjango19/src/templates/post_detail.html",
+		"/home/isaac/Desktop/django/trydjango19/src/templates/post_list.html",
+		"/home/isaac/Desktop/django/trydjango19/src/templates/messages_display.html",
+		"/home/isaac/Desktop/django/trydjango19/src/templates/post_form.html",
+		"/home/isaac/Desktop/django/trydjango19/src/posts/views.py",
+		"/home/isaac/Desktop/django/trydjango19/src/trydjango19/settings.py",
+		"/home/isaac/Desktop/django/trydjango19/src/static/css/base.css",
+		"/home/isaac/Desktop/django/trydjango19/src/templates/index.html",
+		"/home/isaac/Desktop/django/trydjango19/src/posts/models.py",
+		"/home/isaac/Desktop/django/trydjango19/src/posts/forms.py",
+		"/home/isaac/Desktop/django/trydjango19/src/posts/urls.py",
+		"/home/isaac/Desktop/django/trydjango19/src/posts/admin.py",
 		"/home/isaac/Desktop/ember-project/secuwear-graph/app/models/secuwear.js",
 		"/home/isaac/Desktop/ember-project/secuwear-graph/server/mocks/secuwears.js",
 		"/home/isaac/Desktop/ember-project/secuwear-graph/app/styles/app.scss",
@@ -195,28 +251,29 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 8,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/trydjango19/urls.py",
+					"file": "src/templates/base.html",
 					"settings":
 					{
-						"buffer_size": 876,
+						"buffer_size": 1119,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								869,
-								869
+								846,
+								846
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -226,23 +283,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "src/posts/urls.py",
+					"file": "src/templates/post_detail.html",
 					"settings":
 					{
-						"buffer_size": 388,
+						"buffer_size": 437,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								388,
-								388
+								358,
+								358
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -252,18 +310,153 @@
 				},
 				{
 					"buffer": 2,
-					"file": "src/posts/views.py",
+					"file": "src/templates/post_list.html",
 					"settings":
 					{
-						"buffer_size": 439,
+						"buffer_size": 1381,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								431
+								740,
+								740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/post_form.html",
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/posts/views.py",
+					"settings":
+					{
+						"buffer_size": 2313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2152,
+								2152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/posts/models.py",
+					"settings":
+					{
+						"buffer_size": 1683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1588,
+								1588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/trydjango19/settings.py",
+					"settings":
+					{
+						"buffer_size": 3471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3246,
+								3246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1661.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/posts/forms.py",
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
 							]
 						],
 						"settings":
@@ -277,52 +470,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "src/trydjango19/settings.py",
+					"buffer": 8,
+					"file": "src/posts/urls.py",
 					"settings":
 					{
-						"buffer_size": 3227,
+						"buffer_size": 472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2182,
-								2182
+								472,
+								472
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 732.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/templates/index.html",
-					"settings":
-					{
-						"buffer_size": 143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								143,
-								143
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
